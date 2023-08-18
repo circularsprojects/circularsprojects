@@ -3,6 +3,9 @@ hello, i am circular
 
 im an amateur developer currently doing an online uni course
 
-check out food-bot, a funny discord bot i made
+notable cool projects:
+- watchcord (an app to use discord from your apple watch)
+- foodbot (a discord bot that just posts pictures of food)
+- detnsw-autologin (app to automatically log into my school's internet)
 
-uhhhhh
+[![Discord Presence](https://lanyard.cnrad.dev/api/305243321784336384)](https://discord.com/users/305243321784336384)
