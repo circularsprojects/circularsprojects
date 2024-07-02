@@ -4,7 +4,7 @@ hello, i am circular
 currently studying compsci
 
 notable cool projects:
-- [watchcord](https://circulars.dev/watchcord) (an app to use discord from your apple watch)
+- [watchcord](https://watchcord.dev) (an app to use discord from your apple watch)
 - [foodbot](https://circulars.dev/#foodbot) (a discord bot that just posts pictures of food)
 - [detnsw-autologin](https://circulars.dev/#detnsw) (app to automatically log into my school's internet)
 
