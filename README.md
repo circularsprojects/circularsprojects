@@ -1,6 +1,7 @@
 hello, i'm circular
 
-currently studying information technology
+diploma of information technology @ UNE\
+currently studying towards a bachelor's
 
 2024 swift student challenge winner
 
